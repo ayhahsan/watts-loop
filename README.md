@@ -2,7 +2,7 @@
 
 **A Framework for Cross-Domain Analogical Innovation in Continually-Exposed AI Assistants**
 
-*Ethan Ansari (Ayhahsan Ansari) — Independent Researcher, Agra, India*
+*Ayhahsan Ansari — Independent Researcher, Delhi, India*
 
 ---
 
